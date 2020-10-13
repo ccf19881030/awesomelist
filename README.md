@@ -1,6 +1,3 @@
-Github上面有很多awesome的系列项目，当想查找相关主题根据对应的关键字可以直接在GitHub上面搜索awesome，如下图所示：
-![awesome](https://img-blog.csdnimg.cn/20201013172447459.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NjZjE5ODgxMDMw,size_16,color_FFFFFF,t_70#pic_center)
-
 # awesome系列仓库
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 A curated list of awesome awesomeness
